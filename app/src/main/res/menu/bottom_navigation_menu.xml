@@ -1,0 +1,25 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/Home"
+        android:enabled="true"
+        android:icon="@drawable/baseline_home_24"
+        android:title="Menu Principal"/>
+    <item
+        android:id="@+id/Classic"
+        android:enabled="true"
+        android:icon="@drawable/baseline_search2_24"
+        android:title="CLÀSSIC"/>
+
+    <item
+        android:id="@+id/JocVersus"
+        android:enabled="true"
+        android:icon="@drawable/baseline_handshake_24"
+        android:title="VS"/>
+
+    <item
+        android:id="@+id/logout"
+        android:enabled="true"
+        android:icon="@drawable/baseline_logout_24"
+        android:title="Tancar Sessió"/>
+
+</menu>
